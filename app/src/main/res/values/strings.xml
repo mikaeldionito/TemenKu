@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TemenKu</string>
+    <string name="form_login">Form Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="regist">REGISTRASI</string>
+</resources>
